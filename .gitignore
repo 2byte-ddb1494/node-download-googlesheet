@@ -1,4 +1,5 @@
 node_modules
-downloads/**/*
-logs/**/*
-*.log
+downloads/**/*.json
+logs/**/*.log
+
+
